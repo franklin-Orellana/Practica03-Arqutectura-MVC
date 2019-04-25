@@ -7,6 +7,8 @@
 
 **Objetivo Alcanzado** 
 
+      - Implementacion de controladores a las clases hijas con facilidad y eficacia logrando el ordenamiento de datos. 
+
 **ACTIVIDADES DESARROLLADAS**
 
 **1.	Crear un repositorio en GitHub**
