@@ -754,6 +754,20 @@ realizados a GitHub).**
 
                         }
                     }
+**RESULTADOS OBTENIDOS:**
+    
+    •	Los controladores aplicados y enseñados en clases fueron de utilidad para desarrollar la práctica puesto que cada uno de ellos           tiene una manera diferente de trabajar en conjunto con los demás paquetes.
+
+    •	Aplicando todos los tipos de controladores nos damos cuenta que la base es en el ordenamiento de datos para así tener una mejor         estructura.
+    
+**CONCLUSIONES:**
+
+    • Cada uno de los controladores nos ayudan a controlar todos los datos ingresados de formas diferentes una más compleja que otra y        con una buena estructura.
+
+**RECOMENDACIONES:**
+
+    • Aplicar el controlador con mas precisión ya que este nos ayuda a controlar datos de gran tamaño con mucha más facilidad y               rápidamente.
+
 
 
 
