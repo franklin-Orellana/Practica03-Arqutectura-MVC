@@ -756,6 +756,8 @@ realizados a GitHub).**
 
                         }
                     }
+                    
+                    
 **RESULTADOS OBTENIDOS:**
     
     •	Los controladores aplicados y enseñados en clases fueron de utilidad para desarrollar la práctica puesto que cada uno de ellos           
@@ -774,6 +776,9 @@ realizados a GitHub).**
     • Aplicar el controlador con mas precisión ya que este nos ayuda a controlar datos de gran tamaño con mucha más facilidad y             
     rápidamente.
 
+**10. Desarrollar el diagrama de clases correspondiente usando la herramienta LucidChart.**
+
+      https://www.lucidchart.com/documents/view/0edf6f7b-146a-4677-aa94-a9b5aa167021/0
 
 
 
