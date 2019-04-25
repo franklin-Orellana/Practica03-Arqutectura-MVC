@@ -50,4 +50,12 @@ public class ControladorAventura {
         }
 
     }
+
+    public void imprimir() {
+        System.out.println("Lista Ordenada: ");
+        for (int i =0; i< lista.size();i++) {
+            System.out.println(lista.get(i).getNombre());
+
+        }
+    }
 }
